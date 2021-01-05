@@ -1,8 +1,8 @@
 # Site settings
-title: Leezw Blog
-SEOTitle: Leezw Blog
+title:  Pengly Blog
+SEOTitle: Pengly Blog
 header-img: img/home-bg.jpg
-email: jzdd327@163.com
+email: PenglyBlog@163.com #留你自己的email
 description: "百度上搜到的网页描述"
 keyword: "彭冷艳, pengly" #可以被搜索引擎搜索的关键词、不会马上生效、可能几天、可能几年
 url: "https://Estelle-peng.github.io"              # your host, for absolute URL
@@ -13,10 +13,9 @@ future: true
 # SNS settings
 RSS: false
 
-zhihu_username:     leezw327
-github_username:    baymax0
-
-facebook_username:  baymax0
+# zhihu_username:     leezw327
+# github_username:    baymax0
+# facebook_username:  baymax0
 
 
 # Build settings
@@ -61,8 +60,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "如果活不成一颗钻石<br>就活成一粒煤吧～"
-sidebar-avatar: /img/avatar-li.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "恋爱合作请私信"
+sidebar-avatar: /img/avatar-peng.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -79,10 +78,10 @@ page-mathjax: false
 
 # Friends 外链
 friends: [
-    {
-        title: "AaaaaChi",
-        href: "http://huangxuan.me/"
-    }
+    # {
+    #     title: "AaaaaChi",
+    #     href: "http://huangxuan.me/"
+    # }
     # ,{
     #     title: "onevcat王巍",
     #     href: "https://onevcat.com/"
